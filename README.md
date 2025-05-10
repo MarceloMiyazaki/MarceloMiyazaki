@@ -7,4 +7,6 @@
 
 <p>Estou no primeiro semestre de Ciência da Computação!<br/> Centro Universitário de Brasília</p>
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomiyazaki&hide=html&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomiyazaki&hide=html&layout=compact&theme=dark)
+[[LinkedIn]](https://www.linkedin.com/in/marcelo-henrique-miyazaki-5931b4365)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomiyazaki&layout=compact&theme=dark&card_width=200)
