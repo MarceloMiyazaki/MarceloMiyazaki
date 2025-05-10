@@ -7,5 +7,4 @@
 
 <p>Estou no primeiro semestre de Ciência da Computação!<br/> Centro Universitário de Brasília</p>
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomiyazaki&hide=html&layout=compact&theme=dark)](https://github.com/marcelomiyazaki/github-readme-stats)
-
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomiyazaki&hide=html&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomiyazaki&hide=html&layout=compact&theme=dark)
