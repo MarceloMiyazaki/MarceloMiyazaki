@@ -1,28 +1,19 @@
-```python
-class Henrique:
-    def __init__(self):
-        self.name = "Henrique de Figueiredo Reinaldi"
-        self.code = ["Python","C++","C","Java"] 
-        self.occupation = "computer science student"
-        
-    def intro(self):
-        first_name = self.name[:self.name.find(' ')]
-        ans = f"Hi! I'm {first_name}, a {self.occupation}!"
-        return(ans)
-    
-me = Henrique()
-print(me.intro())
-```
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Seja+bem+vindo!;Sou+Marcelo+Miyazaki+%3A+%7D)](https://git.io/typing-svg)
 
-[[Instagram]](https://www.instagram.com/henrique_reinaldi)
-[[LinkedIn]](https://www.linkedin.com/in/henrique-reinaldi-4aa720364/)
-[[Discord]](https://discord.com/users/345917375519916034)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=marcelocode&theme=dark&show_icons=true" alt="ilustração do status do github">
 
+
+### Olá, meu nome é Marcelo Miyazaki!
+
+<div align="left">
+  <a href="www.linkedin.com/in/marcelo-henrique-miyazaki-5931b4365" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="marcelo.miyazaki06@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
-<details>
-<summary></summary>
-<h2></h2>
-<div align="center"><img alaing=center alt="nao sabia que so podia gif ate 10mb slk" src="https://github.com/user-attachments/assets/0d25b710-07ee-42ab-9fb7-70406f0b1883"/></div>
-</details>
+<p>Estou no primeiro semestre de Ciência da Computação!<br/> Centro Universitário de Brasília</p>
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocode&hide=html&layout=compact&theme=dark)](https://github.com/marcelomiyazaki/github-readme-stats)
