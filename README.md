@@ -49,6 +49,6 @@ Ache o meu tesouro!
 [[tesouro]](https://media.licdn.com/dms/image/v2/D4D22AQGzUbcSj3eUGw/feedshare-shrink_800/feedshare-shrink_800/0/1705501427322?e=2147483647&v=beta&t=z4VFCfqHKRwzrQq8V2430izawWn2t48LPDnFk2Z5L08)
 [[tesouro]](https://media.licdn.com/dms/image/v2/D4D22AQGzUbcSj3eUGw/feedshare-shrink_800/feedshare-shrink_800/0/1705501427322?e=2147483647&v=beta&t=z4VFCfqHKRwzrQq8V2430izawWn2t48LPDnFk2Z5L08)
 [[tesouro]](https://media.licdn.com/dms/image/v2/D4D22AQGzUbcSj3eUGw/feedshare-shrink_800/feedshare-shrink_800/0/1705501427322?e=2147483647&v=beta&t=z4VFCfqHKRwzrQq8V2430izawWn2t48LPDnFk2Z5L08)
-[[tesouro]](https://media.licdn.com/dms/image/v2/D4D22AQGzUbcSj3eUGw/feedshare-shrink_800/feedshare-shrink_800/0/1705501427322?e=2147483647&v=beta&t=z4VFCfqHKRwzrQq8V2430izawWn2t48LPDnFk2Z5L08)
+[[tesouro]](https://youtube.com/playlist?list=PLawVRAesvFAhdp5F5dBdQ64YDpXci5qJE&si=NMC1f8RF1DPPbOFk)
 
 </details>
