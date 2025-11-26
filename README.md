@@ -1,10 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Seja+bem+vindo!+%3A+%7D)](https://git.io/typing-svg)
-
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomiyazaki&theme=dark&card_width=500">
-
-### Meu nome é Marcelo Miyazaki!
-
-<p>Estou no primeiro semestre de Ciência da Computação.<br/> Centro Universitário de Brasília</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Seja+bem+vindo!+%3A+%7D">
+<div style="display:flex;align-items: center;">
+  <img align="right"  src="https://i.gifer.com/XOsX.gif" style="width: 150px;">
+  <div>
+    <h3>Meu nome é Marcelo Miyazaki!</h3>
+    <p>Estou no primeiro semestre de Ciência da Computação.<br/>
+      Centro Universitário de Brasília</p>
+  </div>
+</div>
 
 # <kbd>[LinkedIn](https://www.linkedin.com/in/marcelo-henrique-miyazaki-5931b4365)</kbd> <kbd>[LeetCode](https://leetcode.com/u/malcom02/)</kbd>
 
