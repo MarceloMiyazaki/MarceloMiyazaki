@@ -3,7 +3,7 @@
   <img align="right"  src="https://www.pngkey.com/png/full/221-2212352_niandoge-nyan-cat-png-gif.png" style="height:98px">
   <div>
     <h3>Meu nome é Marcelo Miyazaki!</h3>
-    <p>Estou no primeiro semestre de Ciência da Computação.<br/>
+    <p>Sou um estudante de Ciência da Computação.<br/>
       Centro Universitário de Brasília</p>
   </div>
 </div>
